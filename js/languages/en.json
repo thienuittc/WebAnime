@@ -1,0 +1,12 @@
+{
+    "header": {
+        "home": "Home",
+        "from": "Anime Form",
+        "top": "Top Anime",
+        "category": "Type",
+        "season": "Season",
+        "lib": "Library",
+        "showtimes": "Show Times",
+        "login":"Login"
+    }
+}

@@ -1,0 +1,25 @@
+body {
+  background-color: #263238;
+}
+.navbar {
+  background-color: #0f1416;
+}
+.text-menu {
+  font-weight: bold;
+  color: white;
+  font-size: 15px;
+}
+.content{
+    background-color: #0f1416;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 20px;
+}
+.icon-changed-language:hover
+{
+    color: red;
+}
+.banner-big, .suggest
+{
+  margin-top: 20px;
+}
